@@ -6,7 +6,7 @@
 Scr-HRSOD and HRSOD Datasets
 ====
 
-  The proposed first scribble-supervised high-resolution salient object detection datasts, Scr-HRSDO, is pubilc available in [Baidu Netdisk]
+  The proposed first scribble-supervised high-resolution salient object detection datasts, Scr-HRSDO, is pubilc available in [Baidu Netdisk]https://drive.google.com/open?id=11rPRBzqxdRz0zHYax995uvzQsZmTR4A7
   
 Benchmark Testing Dataset (DUT, DUTS, ECSSD, HKU-IS, PASCAL-S, SOD, THUR):
 ========
