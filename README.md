@@ -1,7 +1,8 @@
 # Exploring-Class-Agnostic-Pixels-for-Scribble-Supervised-High-Resolution-Salient-Object-Detection
-====
+
 
   This repository is set for the "Exploring Class-Agnostic Pixels for Scribble-Supervised High-Resolution Salient Object Detection" , which is the first network for high-resolution salient object detection (HRSOD) under scribble-supervised so far. We remaking the first scribbles-labeled HRSOD datasets.
+  
 Scr-HRSOD and HRSOD Datasets
 ====
 
